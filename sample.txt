@@ -1,0 +1,5 @@
+# Sample File
+
+This is a sample text file added by Clawd ⚡
+
+Created: Mon Feb  2 14:21:42 IST 2026
